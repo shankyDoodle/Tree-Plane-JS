@@ -1,0 +1,19 @@
+.headerNode{
+    padding-left: 10px;
+    width: 50px;
+    cursor: pointer;
+
+}
+
+.headerNode:hover{
+    background: #ccc;
+}
+
+.bodyNode{
+    padding-left: 20px;
+    width: 50px;
+}
+
+.hide{
+    display: none;
+}
